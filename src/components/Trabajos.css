@@ -1,0 +1,8 @@
+.trabajo {
+    margin: auto;
+}
+
+img, .titulo, .texto {
+    display: flex;
+    justify-content: center;
+}
