@@ -11,8 +11,8 @@ const Inicio = () => {
                     Data.map((item) => {
                         return (
                         <div className='item'>
-                            <h2>{item.type}</h2>
-                            <p>{item.price}</p>
+                            <h2 className='tipo'>{item.type}</h2>
+                            <p className='precio'>{item.price}</p>
                         </div>
                         );
                     })

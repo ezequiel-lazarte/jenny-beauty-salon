@@ -1,3 +1,7 @@
+:root {
+  --pink: pink;
+}
+
 body {
   font-size: 0.8em;
 }

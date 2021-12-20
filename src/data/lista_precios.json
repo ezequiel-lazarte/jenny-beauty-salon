@@ -1,7 +1,15 @@
 [
     {
         "type": "Alisado",
-        "price": "0$"
+        "price": "700$"
+    },
+    {
+        "type": "Botox",
+        "price": "600$"
+    },
+    {
+        "type": "Color",
+        "price": "500$"
     },
     {
         "type": "Corte",
@@ -9,22 +17,18 @@
     },
     {
         "type": "Keratina",
-        "price": "0$"
-    },
-    {
-        "type": "Brushing",
-        "price": "0$"
+        "price": "600$"
     },
     {
         "type": "Mechas",
-        "price": "0$"
+        "price": "1000$"
     },
     {
-        "type": "Teñido",
-        "price": "0$"
+        "type": "Nutrición",
+        "price": "500$"
     },
     {
-        "type": "Reflejos",
-        "price": "0$"
+        "type": "Levanta Muerto",
+        "price": "600$"
     }
 ]

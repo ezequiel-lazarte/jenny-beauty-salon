@@ -13,7 +13,7 @@ const Trabajos = () => {
                             <h2 className='titulo'>{item.tipe_job}</h2>
                             <p className='texto'>Antes</p>
                             <img src={item.img_before} alt="" />
-                            <p className='texto'>Despues</p>
+                            <p className='texto'>Después</p>
                             <img src={item.img_later} alt="" />
                         </div>                      
                     );
