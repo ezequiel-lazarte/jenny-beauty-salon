@@ -1,5 +1,7 @@
 .trabajo {
-    margin: auto;
+    margin: 5%;
+    padding: 5% 0em;
+    background-color: tan;
 }
 
 img, .titulo, .texto {
